@@ -1,9 +1,11 @@
 import { NavLink } from "react-router-dom";
 
+import "./navbar.css"
+
 function Navbar() {
 
     return (
-        <header style={{borderBottom:"1px solid white"}}>
+        
             <nav>
                 <ul>
                     <li>
@@ -20,7 +22,7 @@ function Navbar() {
                     </li>
                 </ul>
             </nav>
-        </header>
+        
     )
 }
 
