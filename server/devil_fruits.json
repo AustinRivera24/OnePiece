@@ -201,834 +201,459 @@
       "isAncient": true
     },
     {
-      "jpName": "Zoan Devil Fruit 11",
-      "enName": "Ability description 11",
-      "image": "image_url_here",
+      "jpName": "Hito Hito no Mi, Model: Human",
+      "enName": "Human-Human Fruit, Model: Human",
+      "image": "chopper_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Tony Tony Chopper",
+        "image": "chopper_current_user_image_url_here"
       },
       "pastUser": [
         {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
+          "name": "",
+          "image": ""
         }
       ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "ability": "Allows the user to transform into different human-animal hybrid forms and a full human.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Zoan Devil Fruit 12",
-      "enName": "Ability description 12",
-      "image": "image_url_here",
+      "jpName": "Ushi Ushi no Mi, Model: Bison",
+      "enName": "Ox-Ox Fruit, Model: Bison",
+      "image": "dalton_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Dalton",
+        "image": "dalton_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform into a bison-human hybrid and a full bison.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Zoan Devil Fruit 13",
-      "enName": "Ability description 13",
-      "image": "image_url_here",
+      "jpName": "Tori Tori no Mi, Model: Falcon",
+      "enName": "Bird-Bird Fruit, Model: Falcon",
+      "image": "pell_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Pell",
+        "image": "pell_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform into a falcon-human hybrid and a full falcon.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Zoan Devil Fruit 14",
-      "enName": "Ability description 14",
-      "image": "image_url_here",
+      "jpName": "Neko Neko no Mi, Model: Leopard",
+      "enName": "Cat-Cat Fruit, Model: Leopard",
+      "image": "rob_lucci_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Rob Lucci",
+        "image": "rob_lucci_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform into a leopard-human hybrid and a full leopard.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Zoan Devil Fruit 15",
-      "enName": "Ability description 15",
-      "image": "image_url_here",
+      "jpName": "Ushi Ushi no Mi, Model: Giraffe",
+      "enName": "Ox-Ox Fruit, Model: Giraffe",
+      "image": "kaku_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Kaku",
+        "image": "kaku_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform into a giraffe-human hybrid and a full giraffe.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Zoan Devil Fruit 16",
-      "enName": "Ability description 16",
-      "image": "image_url_here",
+      "jpName": "Tori Tori no Mi, Model: Falcon",
+      "enName": "Bird-Bird Fruit, Model: Falcon",
+      "image": "lassoo_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Lassoo",
+        "image": "lassoo_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform into a falcon-human hybrid and a full falcon.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Zoan Devil Fruit 17",
-      "enName": "Ability description 17",
-      "image": "image_url_here",
+      "jpName": "Tori Tori no Mi, Model: Elephant",
+      "enName": "Bird-Bird Fruit, Model: Elephant",
+      "image": "drophy_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Drophy",
+        "image": "drophy_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform into an elephant-human hybrid and a full elephant.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Zoan Devil Fruit 18",
-      "enName": "Ability description 18",
-      "image": "image_url_here",
+      "jpName": "Inu Inu no Mi, Model: Jackal",
+      "enName": "Dog-Dog Fruit, Model: Jackal",
+      "image": "chaka_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Chaka",
+        "image": "chaka_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform into a jackal-human hybrid and a full jackal.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Zoan Devil Fruit 19",
-      "enName": "Ability description 19",
-      "image": "image_url_here",
+      "jpName": "Uma Uma no Mi",
+      "enName": "Horse-Horse Fruit",
+      "image": "pierre_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Pierre",
+        "image": "pierre_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Transform into a horse or horse hybrid.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Zoan Devil Fruit 20",
-      "enName": "Ability description 20",
-      "image": "image_url_here",
+      "jpName": "Zo Zo no Mi, Model: Elephant",
+      "enName": "Zo Zo Fruit, Model: Elephant",
+      "image": "funkfreed_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Funkfreed",
+        "image": "funkfreed_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform into an elephant and manipulate the elephant's sword form.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Zoan Devil Fruit 21",
-      "enName": "Ability description 21",
-      "image": "image_url_here",
+      "jpName": "Inu Inu no Mi, Model: Wolf",
+      "enName": "Dog-Dog Fruit, Model: Wolf",
+      "image": "jabra_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Jabra",
+        "image": "jabra_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform into a wolf-human hybrid and a full wolf.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Zoan Devil Fruit 22",
-      "enName": "Ability description 22",
-      "image": "image_url_here",
+      "jpName": "Hebi Hebi no Mi, Model: King Cobra",
+      "enName": "Snake-Snake Fruit, Model: King Cobra",
+      "image": "boa_marigold_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Boa Marigold",
+        "image": "boa_marigold_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform into a king cobra-human hybrid and a full king cobra.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Zoan Devil Fruit 23",
-      "enName": "Ability description 23",
-      "image": "image_url_here",
+      "jpName": "Hebi Hebi no Mi, Model: Anaconda",
+      "enName": "Snake-Snake Fruit, Model: Anaconda",
+      "image": "boa_sandersonia_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Boa Sandersonia",
+        "image": "boa_sandersonia_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform into an anaconda-human hybrid and a full anaconda.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Zoan Devil Fruit 24",
-      "enName": "Ability description 24",
-      "image": "image_url_here",
+      "jpName": "Kame Kame no Mi",
+      "enName": "Turtle-Turtle Fruit",
+      "image": "pekom_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Pekoms",
+        "image": "pekom_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform into a turtle-human hybrid and a full turtle.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Zoan Devil Fruit 25",
-      "enName": "Ability description 25",
-      "image": "image_url_here",
+      "jpName": "Tama Tama no Mi",
+      "enName": "Egg-Egg Fruit",
+      "image": "tamago_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Tamago",
+        "image": "tamago_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Turns the user's body composition into that of an egg.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Zoan Devil Fruit 26",
-      "enName": "Ability description 26",
-      "image": "image_url_here",
+      "jpName": "Sara Sara no Mi, Model: Axolotl",
+      "enName": "Sala-Sala Fruit, Model: Axolotl",
+      "image": "smiley_image_url_here",
       "type": "Zoan",
-      "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+      "currentUser": [],
+      "pastUser": {
+        "name": "Smiley",
+        "image": "smiley_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "ability": "Transforms into an axolotl hybrid and a full axolotl at will.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Zoan Devil Fruit 27",
-      "enName": "Ability description 27",
-      "image": "image_url_here",
+      "jpName": "Mushi Mushi no Mi, Model: Kabutomushi",
+      "enName": "Bug-Bug Fruit, Model: Rhinoceros Beetle",
+      "image": "kabu_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Kabu",
+        "image": "kabu_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Transform into a rhinoceros beetle hybrid and full rhinoceros beetle.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Zoan Devil Fruit 28",
-      "enName": "Ability description 28",
-      "image": "image_url_here",
+      "jpName": "Mushi Mushi no Mi, Model: Suzumebachi",
+      "enName": "Bug-Bug Fruit, Model: Hornet",
+      "image": "bian_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Bian",
+        "image": "bian_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Transform into a hornet hybrid and full hornet.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Zoan Devil Fruit 29",
-      "enName": "Ability description 29",
-      "image": "image_url_here",
+      "jpName": "Tori Tori no Mi, Model: Albatross",
+      "enName": "Bird-Bird Fruit Model Albatross",
+      "image": "morgans_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Morgans",
+        "image": "morgans_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": " Transform into an albatross hybrid and a full albatross.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Zoan Devil Fruit 30",
-      "enName": "Ability description 30",
-      "image": "image_url_here",
+      "jpName": "Inu Inu no Mi, Model: Tanuki",
+      "enName": "Dog-Dog Fruit, Model Tanuki",
+      "image": "bunbuku_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Bunbuku",
+        "image": "bunbuku_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform into a tanuki-human hybrid and a full tanuki.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Zoan Devil Fruit 31",
-      "enName": "Ability description 31",
-      "image": "image_url_here",
+      "jpName": "Zou Zou no Mi, Model: Mammoth",
+      "enName": "Elephant-Elephant Fruit, Model: Mammoth",
+      "image": "jack_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Jack",
+        "image": "jack_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform into a mammoth-human hybrid and a full mammoth.",
+      "isAwakened": false,
       "isMythical": false,
-      "isAncient": false
+      "isAncient": true
     },
     {
-      "jpName": "Zoan Devil Fruit 32",
-      "enName": "Ability description 32",
-      "image": "image_url_here",
+      "jpName": "Ryu Ryu no Mi, Model: Brachiosaurus",
+      "enName": "Dragon-Dragon Fruit, Model: Brachiosaurus",
+      "image": "queen_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Queen",
+        "image": "queen_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform into a brachiosaurus-human hybrid and a full brachiosaurus.",
+      "isAwakened": false,
       "isMythical": false,
-      "isAncient": false
+      "isAncient": true
     },
     {
-      "jpName": "Zoan Devil Fruit 33",
-      "enName": "Ability description 33",
-      "image": "image_url_here",
+      "jpName": "Ryu Ryu no Mi, Model: Pteranodon",
+      "enName": "Dragon-Dragon Fruit, Model: Pteranodon",
+      "image": "king_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "King",
+        "image": "king_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform into a pteranodon-human hybrid and a full pteranodon.",
+      "isAwakened": false,
       "isMythical": false,
-      "isAncient": false
+      "isAncient": true
     },
     {
-      "jpName": "Zoan Devil Fruit 34",
-      "enName": "Ability description 34",
-      "image": "image_url_here",
+      "jpName": "Ryu Ryu no Mi, Model: Spinosaurus",
+      "enName": "Dragon-Dragon Fruit, Model: Spinosaurus",
+      "image": "page_one_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Page One",
+        "image": "page_one_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform into a spinosaurus-human hybrid and a full spinosaurus.",
+      "isAwakened": false,
       "isMythical": false,
-      "isAncient": false
+      "isAncient": true
     },
     {
-      "jpName": "Zoan Devil Fruit 35",
-      "enName": "Ability description 35",
-      "image": "image_url_here",
+      "jpName": "Ryu Ryu no Mi, Model: Pachycephalosaurus",
+      "enName": "Dragon-Dragon Fruit, Model: Pachycephalosaurus",
+      "image": "ulti_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Ulti",
+        "image": "ulti_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform into a pachycephalosaurus-human hybrid and a full pachycephalosaurus.",
+      "isAwakened": false,
       "isMythical": false,
-      "isAncient": false
+      "isAncient": true
     },
     {
-      "jpName": "Zoan Devil Fruit 36",
-      "enName": "Ability description 36",
-      "image": "image_url_here",
+      "jpName": "Ryu Ryu no Mi, Model: Triceratops",
+      "enName": "Dragon-Dragon Fruit, Model: Triceratops",
+      "image": "sasaki_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Sasaki",
+        "image": "sasaki_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform into a triceratops-human hybrid and a full triceratops.",
+      "isAwakened": false,
       "isMythical": false,
-      "isAncient": false
+      "isAncient": true
     },
     {
-      "jpName": "Zoan Devil Fruit 37",
-      "enName": "Ability description 37",
-      "image": "image_url_here",
+      "jpName": "Kumo Kumo no Mi, Model: Rosamygale Grauvogeli",
+      "enName": "Spider-Spider Fruit, Model: Rosamygale Grauvogeli",
+      "image": "black_maria_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Black Maria",
+        "image": "black_maria_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform into a Rosamygale Grauvogeli-human hybrid and a full Rosamygale Grauvogeli.",
+      "isAwakened": false,
       "isMythical": false,
-      "isAncient": false
+      "isAncient": true
     },
     {
-      "jpName": "Zoan Devil Fruit 38",
-      "enName": "Ability description 38",
-      "image": "image_url_here",
+      "jpName": "Neko Neko no Mi, Model: Saber Tiger",
+      "enName": "Cat-Cat Fruit, Model: Saber Tiger",
+      "image": "whos_who_image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Who's-Who",
+        "image": "whos_who_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform into a saber tiger-human hybrid and a full saber tiger.",
+      "isAwakened": false,
       "isMythical": false,
-      "isAncient": false
+      "isAncient": true
     },
     {
-      "jpName": "Zoan Devil Fruit 39",
-      "enName": "Ability description 39",
+      "jpName": "Uo Uo no Mi, Model: Seiryu (Artificial)",
+      "enName": "Fish-Fish Fruit, Model: Azure Dragon (Artificial)",
       "image": "image_url_here",
       "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
+        "name": "Kozuki Momonosuke",
         "image": "current_user_image_url_here"
       },
       "pastUser": [
         {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
+          "name": "",
+          "image": ""
         }
       ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
-      "isMythical": false,
-      "isAncient": false
-    },
-    {
-      "jpName": "Zoan Devil Fruit 40",
-      "enName": "Ability description 40",
-      "image": "image_url_here",
-      "type": "Zoan",
-      "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
-      },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
-      "isMythical": false,
-      "isAncient": false
-    },
-    {
-      "jpName": "Zoan Devil Fruit 41",
-      "enName": "Ability description 41",
-      "image": "image_url_here",
-      "type": "Zoan",
-      "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
-      },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
-      "isMythical": false,
-      "isAncient": false
-    },
-    {
-      "jpName": "Zoan Devil Fruit 42",
-      "enName": "Ability description 42",
-      "image": "image_url_here",
-      "type": "Zoan",
-      "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
-      },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
-      "isMythical": false,
-      "isAncient": false
-    },
-    {
-      "jpName": "Zoan Devil Fruit 43",
-      "enName": "Ability description 43",
-      "image": "image_url_here",
-      "type": "Zoan",
-      "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
-      },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
-      "isMythical": false,
-      "isAncient": false
-    },
-    {
-      "jpName": "Zoan Devil Fruit 44",
-      "enName": "Ability description 44",
-      "image": "image_url_here",
-      "type": "Zoan",
-      "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
-      },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
-      "isMythical": false,
-      "isAncient": false
-    },
-    {
-      "jpName": "Zoan Devil Fruit 45",
-      "enName": "Ability description 45",
-      "image": "image_url_here",
-      "type": "Zoan",
-      "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
-      },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
-      "isMythical": false,
-      "isAncient": false
-    },
-    {
-      "jpName": "Zoan Devil Fruit 46",
-      "enName": "Ability description 46",
-      "image": "image_url_here",
-      "type": "Zoan",
-      "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
-      },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
-      "isMythical": false,
-      "isAncient": false
-    },
-    {
-      "jpName": "Zoan Devil Fruit 47",
-      "enName": "Ability description 47",
-      "image": "image_url_here",
-      "type": "Zoan",
-      "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
-      },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
-      "isMythical": false,
-      "isAncient": false
-    },
-    {
-      "jpName": "Zoan Devil Fruit 48",
-      "enName": "Ability description 48",
-      "image": "image_url_here",
-      "type": "Zoan",
-      "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
-      },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
-      "isMythical": false,
-      "isAncient": false
-    },
-    {
-      "jpName": "Zoan Devil Fruit 49",
-      "enName": "Ability description 49",
-      "image": "image_url_here",
-      "type": "Zoan",
-      "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
-      },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
-      "isMythical": false,
-      "isAncient": false
-    },
-    {
-      "jpName": "Zoan Devil Fruit 50",
-      "enName": "Ability description 50",
-      "image": "image_url_here",
-      "type": "Zoan",
-      "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
-      },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
-      "isMythical": false,
-      "isAncient": false
-    },
-    {
-      "jpName": "Zoan Devil Fruit 51",
-      "enName": "Ability description 51",
-      "image": "image_url_here",
-      "type": "Zoan",
-      "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
-      },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
-      "isMythical": false,
+      "ability": "Transform into a hybrid and full Azure Dragon",
+      "isAwakened": false,
+      "isMythical": true,
       "isAncient": false
     }
   ],
   "logia": [
     {
-      "jpName": "Logia Devil Fruit 1",
-      "enName": "Ability description 1",
+      "jpName": "Suna Suna no Mi",
+      "enName": "Sand-Sand Fruit",
       "image": "image_url_here",
       "type": "Logia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Crocodile",
         "image": "current_user_image_url_here"
       },
       "pastUser": [
@@ -1037,19 +662,19 @@
           "image": "past_user_image_url_here"
         }
       ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "ability": "Allows the user to create, control, and transform into sand.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Logia Devil Fruit 2",
-      "enName": "Ability description 2",
-      "image": "image_url_here",
+      "jpName": "Moku Moku no Mi",
+      "enName": "Plume-Plume Fruit",
+      "image": "smoker_image_url_here",
       "type": "Logia",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Smoker",
+        "image": "smoker_current_user_image_url_here"
       },
       "pastUser": [
         {
@@ -1057,19 +682,19 @@
           "image": "past_user_image_url_here"
         }
       ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "ability": "Allows the user to create, control, and become smoke.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Logia Devil Fruit 3",
-      "enName": "Ability description 3",
-      "image": "image_url_here",
+      "jpName": "Goro Goro no Mi",
+      "enName": "Rumble-Rumble Fruit",
+      "image": "enel_image_url_here",
       "type": "Logia",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Enel",
+        "image": "enel_current_user_image_url_here"
       },
       "pastUser": [
         {
@@ -1077,19 +702,19 @@
           "image": "past_user_image_url_here"
         }
       ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "ability": "Allows the user to generate, manipulate, and transform into lightning.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Logia Devil Fruit 4",
-      "enName": "Ability description 4",
-      "image": "image_url_here",
+      "jpName": "Hie Hie no Mi",
+      "enName": "Chilly-Chilly Fruit",
+      "image": "kuzan_image_url_here",
       "type": "Logia",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Kuzan",
+        "image": "kuzan_current_user_image_url_here"
       },
       "pastUser": [
         {
@@ -1097,19 +722,19 @@
           "image": "past_user_image_url_here"
         }
       ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "ability": "Allows the user to generate, manipulate, and become ice.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Logia Devil Fruit 5",
-      "enName": "Ability description 5",
-      "image": "image_url_here",
+      "jpName": "Yami Yami no Mi",
+      "enName": "Dark-Dark Fruit",
+      "image": "blackbeard_image_url_here",
       "type": "Logia",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Marshall D. Teach (Blackbeard)",
+        "image": "blackbeard_current_user_image_url_here"
       },
       "pastUser": [
         {
@@ -1117,19 +742,19 @@
           "image": "past_user_image_url_here"
         }
       ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "ability": "Allows the user to generate, control, and become darkness.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Logia Devil Fruit 6",
-      "enName": "Ability description 6",
-      "image": "image_url_here",
+      "jpName": "Pika Pika no Mi",
+      "enName": "Glint-Glint Fruit",
+      "image": "kizaru_image_url_here",
       "type": "Logia",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Borsalino (Kizaru)",
+        "image": "kizaru_current_user_image_url_here"
       },
       "pastUser": [
         {
@@ -1137,19 +762,19 @@
           "image": "past_user_image_url_here"
         }
       ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "ability": "Allows the user to generate, control, and become light.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Logia Devil Fruit 7",
-      "enName": "Ability description 7",
-      "image": "image_url_here",
+      "jpName": "Magu Magu no Mi",
+      "enName": "Magma-Magma Fruit",
+      "image": "akainu_image_url_here",
       "type": "Logia",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Sakazuki (Akainu)",
+        "image": "akainu_current_user_image_url_here"
       },
       "pastUser": [
         {
@@ -1157,19 +782,19 @@
           "image": "past_user_image_url_here"
         }
       ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "ability": "Allows the user to generate, control, and become magma.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Logia Devil Fruit 8",
-      "enName": "Ability description 8",
-      "image": "image_url_here",
+      "jpName": "Susu Susu no Mi",
+      "enName": "Soot-Soot Fruit",
+      "image": "karasu_image_url_here",
       "type": "Logia",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Karasu",
+        "image": "karasu_current_user_image_url_here"
       },
       "pastUser": [
         {
@@ -1177,19 +802,19 @@
           "image": "past_user_image_url_here"
         }
       ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "ability": "Allows the user to create, control, and transform into soot.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Logia Devil Fruit 9",
-      "enName": "Ability description 9",
-      "image": "image_url_here",
+      "jpName": "Numa Numa no Mi",
+      "enName": "Swamp-Swamp Fruit",
+      "image": "caribou_image_url_here",
       "type": "Logia",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Caribou",
+        "image": "caribou_current_user_image_url_here"
       },
       "pastUser": [
         {
@@ -1197,19 +822,19 @@
           "image": "past_user_image_url_here"
         }
       ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "ability": "Allows the user to create, control, and become mud.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Logia Devil Fruit 10",
-      "enName": "Ability description 10",
-      "image": "image_url_here",
+      "jpName": "Gasu Gasu no Mi",
+      "enName": "Gas-Gas Fruit",
+      "image": "caesar_image_url_here",
       "type": "Logia",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Caesar Clown",
+        "image": "caesar_current_user_image_url_here"
       },
       "pastUser": [
         {
@@ -1217,19 +842,19 @@
           "image": "past_user_image_url_here"
         }
       ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "ability": "Allows the user to create, control, and become gas.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Logia Devil Fruit 11",
-      "enName": "Ability description 11",
-      "image": "image_url_here",
+      "jpName": "Mori Mori no Mi",
+      "enName": "Woods-Woods Fruit",
+      "image": "aramaki_image_url_here",
       "type": "Logia",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Aramaki",
+        "image": "aramaki_current_user_image_url_here"
       },
       "pastUser": [
         {
@@ -1237,60 +862,55 @@
           "image": "past_user_image_url_here"
         }
       ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "ability": "Allows the user to create, control, and become flora.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Logia Devil Fruit 12",
-      "enName": "Ability description 12",
-      "image": "image_url_here",
+      "jpName": "Mera Mera no Mi",
+      "enName": "Flame-Flame Fruit",
+      "image": "sabo_image_url_here",
       "type": "Logia",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Sabo",
+        "image": "sabo_current_user_image_url_here"
       },
       "pastUser": [
         {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
+          "name": "Portgas D. Ace",
+          "image": "portgas_ace_image_url_here"
         }
       ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "ability": "Allows the user to generate, control, and become fire.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Logia Devil Fruit 13",
-      "enName": "Ability description 13",
-      "image": "image_url_here",
+      "jpName": "Yuki Yuki no Mi",
+      "enName": "Snow-Snow Fruit",
+      "image": "monet_image_url_here",
       "type": "Logia",
       "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+        "name": "Monet",
+        "image": "monet_current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to generate, control, and become snow.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     }
   ],
   "paramecia": [
     {
-      "jpName": "Paramecia Devil Fruit 1",
-      "enName": "Ability description 1",
+      "jpName": "Bara Bara no Mi",
+      "enName": "Chop-Chop Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Buggy",
         "image": "current_user_image_url_here"
       },
       "pastUser": [
@@ -1299,1788 +919,1330 @@
           "image": "past_user_image_url_here"
         }
       ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "ability": "Allows the user to split their own body into pieces and control said pieces however they wish, as well as making the user immune to slashing attacks.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 2",
-      "enName": "Ability description 2",
+      "jpName": "Sube Sube no Mi",
+      "enName": "Slip-Slip Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Alvida",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to make their body incredibly slippery, causing attacks to slide off harmlessly.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 3",
-      "enName": "Ability description 3",
+      "jpName": "Hana Hana no Mi",
+      "enName": "Flower-Flower Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Nico Robin",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to replicate parts of their body (including limbs, eyes, and ears) on any surface, including other people or objects, essentially granting them near-limitless spatial awareness and combat versatility.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 4",
-      "enName": "Ability description 4",
+      "jpName": "Bomu Bomu no Mi",
+      "enName": "Boom-Boom Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Gem",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to make any part of their body explode, whether it be their limbs, hair, mucus, even breath or cough.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 5",
-      "enName": "Ability description 5",
+      "jpName": "Kiro Kiro no Mi",
+      "enName": "Kilo-Kilo Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Mikita",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to change their weight from 1 to 10,000 kilograms without, in any way, affecting the overall size of their body.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 6",
-      "enName": "Ability description 6",
+      "jpName": "Doru Doru no Mi",
+      "enName": "Wax-Wax Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Galdino",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to generate and manipulate wax at will. The wax can be molded into various shapes and used for offense, defense, or utility purposes.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 7",
-      "enName": "Ability description 7",
+      "jpName": "Baku Baku no Mi",
+      "enName": "Munch-Munch Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Wapol",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to eat and assimilate virtually any object, incorporating its properties into their own body. This includes both inorganic materials and other Devil Fruits.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 8",
-      "enName": "Ability description 8",
+      "jpName": "Mane Mane no Mi",
+      "enName": "Clone-Clone Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Bentham (Bon Clay)",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": {
+        "name": "Kurozumi Higurashi",
+        "image": ""
+      },
+      "ability": "Allows the user to replicate the appearance and voice of anyone they touch, creating perfect copies. This ability extends to animals and inanimate objects as well.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 9",
-      "enName": "Ability description 9",
+      "jpName": "Supa Supa no Mi",
+      "enName": "Dice-Dice Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Daz Bonez",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform their body into blades, granting them the ability to slice through virtually anything with ease. It also enhances the user's physical strength and durability.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 10",
-      "enName": "Ability description 10",
+      "jpName": "Toge Toge no Mi",
+      "enName": "Spike-Spike Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Zala",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to grow spikes on any part of their body, and turn any body part entirely into a spike.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 11",
-      "enName": "Ability description 11",
+      "jpName": "Ori Ori no Mi",
+      "enName": "Bind-Bind Fruit ",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Hina",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to bind their foes in iron shackles created by the user's body.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 12",
-      "enName": "Ability description 12",
+      "jpName": "Bane Bane no Mi",
+      "enName": "Boing-Boing Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Bellamy",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform into a springs, gaining enhanced agility, jumping ability, and the ability to stretch their limbs like springs.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 13",
-      "enName": "Ability description 13",
+      "jpName": "Ito Ito no Mi",
+      "enName": "String-String Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Donquixote Doflamingo",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to create and manipulate strings at will. These strings are incredibly strong and can be used for offense, defense, and controlling others like puppets.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 14",
-      "enName": "Ability description 14",
+      "jpName": "Noro Noro no Mi",
+      "enName": "Slow-Slow Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Foxy",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to emit beams which temporarily slow down their target.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 15",
-      "enName": "Ability description 15",
+      "jpName": "Doa Doa no Mi",
+      "enName": "Door-Door Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Blueno",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to create doors on any surface, allowing them to travel between locations instantaneously. It also grants the user the ability to turn themselves or others into doors, enabling them to pass through solid objects.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 16",
-      "enName": "Ability description 16",
+      "jpName": "Awa Awa no Mi",
+      "enName": "Bubble-Bubble Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Kalifa",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to create and control soap-like bubbles at will. These bubbles can be used for various purposes, including trapping opponents and cleaning objects.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 17",
-      "enName": "Ability description 17",
+      "jpName": "Beri Beri no Mi",
+      "enName": "Berry-Berry Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Very Good",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform their body parts into a multitude of berry-like balls.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 18",
-      "enName": "Ability description 18",
+      "jpName": "Sabi Sabi no Mi",
+      "enName": "Rust-Rust Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Shu",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to induce rust on any object they touch, causing it to deteriorate rapidly. This ability can be used for offense, defense, or sabotage.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 19",
-      "enName": "Ability description 19",
+      "jpName": "Shari Shari no Mi",
+      "enName": "Wheel-Wheel Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Sharinguru",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform their arms and feet into wheels.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 20",
-      "enName": "Ability description 20",
+      "jpName": "Horo Horo no Mi",
+      "enName": "Hollow-Hollow Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Perona",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to conjure ghost.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 21",
-      "enName": "Ability description 21",
+      "jpName": "Yomi Yomi no Mi",
+      "enName": "Revive-Revive Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Brook",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user's soul to return to their body after death, granting them a second chance at life. It also makes the user effectively immortal and immune to most forms of physical damage.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 22",
-      "enName": "Ability description 22",
+      "jpName": "Kage Kage no Mi",
+      "enName": "Shadow-Shadow Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Gecko Moria",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to manipulate shadows, including their own and those of others. This ability can be used for various purposes, including creating minions known as 'Zombies' and enhancing physical abilities.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 23",
-      "enName": "Ability description 23",
+      "jpName": "Nikyu Nikyu no Mi",
+      "enName": "Paw-Paw Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Bartholomew Kuma",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to repel anything they touch, including physical attacks, air, and even intangible concepts like pain or fatigue. This ability can also be used for teleportation and defensive purposes.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 24",
-      "enName": "Ability description 24",
+      "jpName": "Toshi Toshi no Mi",
+      "enName": "Age-Age Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Jewelry Bonney",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to manipulate the ages of people or objects.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 25",
-      "enName": "Ability description 25",
+      "jpName": "Jiki Jiki no Mi",
+      "enName": "Magnet-Magnet Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Eustass Kid",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to generate and manipulate magnetic forces at will. This ability can be used for various purposes, including attracting and repelling metallic objects and controlling projectiles.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 26",
-      "enName": "Ability description 26",
+      "jpName": "Ope Ope no Mi",
+      "enName": "Op-Op Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Trafalgar D. Law",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to create a spherical space within which they can manipulate objects freely. This ability can be used for various purposes, including surgery, teleportation, and defensive barriers.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 27",
-      "enName": "Ability description 27",
+      "jpName": "Shiro Shiro no Mi",
+      "enName": "Castle-Castle Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Capone Bege",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform into a fortress or castle, granting them immense defensive capabilities. This ability can also be used to house and protect others within the user's body.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 28",
-      "enName": "Ability description 28",
+      "jpName": "Wara Wara no Mi",
+      "enName": "Straw-Straw Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Basil Hawkins",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to create and manipulate straw at will, with the straw having damage-redirecting properties.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 29",
-      "enName": "Ability description 29",
+      "jpName": "Oto Oto no Mi",
+      "enName": "Tone-Tone Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Scratchmen Apoo",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform parts of their body into musical instruments and play music with a variety of destructive effects.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 30",
-      "enName": "Ability description 30",
+      "jpName": "Poke Poke no Mi",
+      "enName": "Pocket-Pocket Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Blamenco",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to create pockets on their body.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 31",
-      "enName": "Ability description 31",
+      "jpName": "Woshu Woshu no Mi",
+      "enName": "Wash-Wash Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Tsuru",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to literally 'wash and hang out to dry' people and objects as if they were clothes.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 32",
-      "enName": "Ability description 32",
+      "jpName": "Fuwa Fuwa no Mi",
+      "enName": "Float-Float Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Shiki",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to levitate themselves and other objects, essentially granting the power of flight. It also enables the user to manipulate gravity within a certain range.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 33",
-      "enName": "Ability description 33",
+      "jpName": "Deka Deka no Mi",
+      "enName": "Huge-Huge Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Sanjuan Wolf",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows its user to drastically enlarge their body.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 34",
-      "enName": "Ability description 34",
+      "jpName": "Mero Mero no Mi",
+      "enName": "Love-Love Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Boa Hancock",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to emit beams of pure love and lust from their body, turning anyone who sees them into stone if they harbor impure thoughts or desires towards the user. It also grants the user enhanced physical abilities.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 35",
-      "enName": "Ability description 35",
+      "jpName": "Doku Doku no Mi",
+      "enName": "Venom-Venom Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Magellan",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to generate and manipulate various deadly poisons from their body. It also grants the user immunity to all forms of poison and the ability to create and control substances with different properties.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 36",
-      "enName": "Ability description 36",
+      "jpName": "Horu Horu no Mi",
+      "enName": "Horm-Horm Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Emporio Ivankov",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to create and control hormones in living beings, granting them the ability to manipulate emotions, physical conditions, and even genders.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 37",
-      "enName": "Ability description 37",
+      "jpName": "Choki Choki no Mi",
+      "enName": "Snip-Snip Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Inazuma",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform their hands into scissors, granting them the ability to cut through virtually anything with ease. It also enhances the user's physical strength and dexterity.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 38",
-      "enName": "Ability description 38",
+      "jpName": "Kira Kira no Mi",
+      "enName": "Twinkle-Twinkle Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Jozu",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform their body into diamond, granting them immense physical strength and durability. It also enhances the user's resistance to physical and elemental attacks.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 39",
-      "enName": "Ability description 39",
+      "jpName": "Gura Gura no Mi",
+      "enName": "Tremor-Tremor Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Marshall D. Teach",
         "image": "current_user_image_url_here"
       },
       "pastUser": [
         {
-          "name": "Past user 1",
+          "name": "Edward Newgate",
           "image": "past_user_image_url_here"
         }
       ],
-      "ability": "Detailed ability description",
+      "ability": "Allows the user to create vibrations, or 'quakes' ",
       "isAwakened": true,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 40",
-      "enName": "Ability description 40",
+      "jpName": "Mato Mato no Mi",
+      "enName": "Mark-Mark Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Vander Decken IX",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to mark any object or person they touch with their hand. Once marked, the user can control the trajectory of objects and attacks towards the marked target, regardless of distance.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 41",
-      "enName": "Ability description 41",
+      "jpName": "Soru Soru no Mi",
+      "enName": "Soul-Soul Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Charlotte Linlin (Big Mom)",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
-      "isMythical": false,
-      "isAncient": false
-    },
-    {
-      "jpName": "Paramecia Devil Fruit 42",
-      "enName": "Ability description 42",
-      "image": "image_url_here",
-      "type": "Paramecia",
-      "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+      "pastUser": {
+        "name": "Carmel",
+        "image": ""
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "ability": "Allows the user to manipulate souls, including their own and those of others. This ability can be used for various purposes, including altering ages and absorbing lifespan.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 43",
-      "enName": "Ability description 43",
+      "jpName": "Fuku Fuku no Mi",
+      "enName": "Cloth-Cloth Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Kin'emon",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to create and manipulate clothing at will, including transforming themselves and others. This ability extends to the creation of weapons and defensive barriers made of cloth.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 44",
-      "enName": "Ability description 44",
+      "jpName": "Hobi Hobi no Mi",
+      "enName": "Hobby-Hobby Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Sugar",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to turn living beings and objects into toys by touching them. Those turned into toys lose their memories and identities, becoming completely subservient to the user's commands.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 45",
-      "enName": "Ability description 45",
+      "jpName": "Buki Buki no Mi",
+      "enName": "Arms-Arms Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Baby 5",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform any part of their body into a weapon. This ability enables the user to produce and wield various weapons at will, making them a formidable combatant.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 46",
-      "enName": "Ability description 46",
+      "jpName": "Guru Guru no Mi",
+      "enName": "Spin-Spin Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Buffalo",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform any part of their body or piece of worn clothing into propellers capable of rotation at high speed.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 47",
-      "enName": "Ability description 47",
+      "jpName": "Beta Beta no Mi",
+      "enName": "Stick-Stick Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Trebol",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to generate and manipulate a sticky substance similar to glue at will. This ability can be used for various purposes, including trapping opponents and creating defensive barriers.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 48",
-      "enName": "Ability description 48",
+      "jpName": "Zushi Zushi no Mi",
+      "enName": "Press-Press Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Issho (Fujitora)",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to manipulate gravitational forces at will. This ability enables the user to control the gravity of objects and people within a certain range, making them extremely powerful in combat.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 49",
-      "enName": "Ability description 49",
+      "jpName": "Bari Bari no Mi",
+      "enName": "Barrier-Barrier Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Bartolomeo",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
-      "isMythical": false,
-      "isAncient": false
-    },
-    {
-      "jpName": "Paramecia Devil Fruit 50",
-      "enName": "Ability description 50",
-      "image": "image_url_here",
-      "type": "Paramecia",
-      "currentUser": {
-        "name": "Current user",
-        "image": "current_user_image_url_here"
+      "pastUser": {
+        "name": "Kurozumi Semimaru",
+        "image": ""
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "ability": "Allows the user to create and manipulate barriers at will. These barriers are incredibly strong and can withstand powerful attacks, making the user effectively invulnerable.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 51",
-      "enName": "Ability description 51",
+      "jpName": "Nui Nui no Mi",
+      "enName": "Sew-Sew Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Leo",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to create and manipulate threads at will. These threads are incredibly strong and can be used for various purposes, including sewing, binding, and attacking.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 52",
-      "enName": "Ability description 52",
+      "jpName": "Giro Giro no Mi",
+      "enName": "Glare-Glare Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Viola",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to see through solid objects and read the minds of others. This ability grants the user incredible perception and insight, making them highly effective in espionage and reconnaissance.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 53",
-      "enName": "Ability description 53",
+      "jpName": "Ato Ato no Mi",
+      "enName": "Art-Art Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Giolla",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to turn any object they touch into a work of art. This ability extends to living beings as well, allowing the user to reshape and modify their appearance at will.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 54",
-      "enName": "Ability description 54",
+      "jpName": "Jake Jake no Mi",
+      "enName": "Jacket-Jacket Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Kelly Funk",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to merge with clothing and other fabrics, effectively becoming a living suit of armor. This ability enhances the user's strength and durability, making them extremely formidable in combat.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 55",
-      "enName": "Ability description 55",
+      "jpName": "Pamu Pamu no Mi",
+      "enName": "Pop-Pop Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Gladius",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to cause their own body or any inorganic object they touch to rupture and explode.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 56",
-      "enName": "Ability description 56",
+      "jpName": "Sui Sui no Mi",
+      "enName": "Swim-Swim Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Senor Pink",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to swim through solid objects as if they were water. This ability grants the user incredible mobility and versatility, making them highly effective in infiltration and stealth missions.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 57",
-      "enName": "Ability description 57",
+      "jpName": "Ton Ton no Mi",
+      "enName": "Ton-Ton Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Machvise",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to increase their weight.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 58",
-      "enName": "Ability description 58",
+      "jpName": "Hira Hira no Mi",
+      "enName": "Ripple-Ripple Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Diamante",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to make their body and any object they touch become flat and flexible, letting solid objects ripple, billow, and flutter like a piece of cloth or a flag.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 59",
-      "enName": "Ability description 59",
+      "jpName": "Ishi Ishi no Mi",
+      "enName": "Stone-Stone Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Pica",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to assimilate with and manipulate stone at will. This ability grants the user immense strength and durability, as well as the ability to reshape and control stone structures.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 60",
-      "enName": "Ability description 60",
+      "jpName": "Chiyu Chiyu no Mi",
+      "enName": "Heal-Heal Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Mansherry",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to heal injuries and illnesses by shedding tears. This ability can also be used to restore objects to their original state and revive the dead, although doing so requires a great deal of energy.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 61",
-      "enName": "Ability description 61",
+      "jpName": "Maki Maki no Mi",
+      "enName": "Scroll-Scroll Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Raizo",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to create and control scrolls at will, which have special properties including storing objects and generating drawings.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 62",
-      "enName": "Ability description 62",
+      "jpName": "Mira Mira no Mi",
+      "enName": "Mirror-Mirror Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Charlotte Brûlée",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to create and manipulate mirrors at will. This ability can be used for various purposes, including transportation, communication, and creating illusions.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 63",
-      "enName": "Ability description 63",
+      "jpName": "Pero Pero no Mi",
+      "enName": "Lick-Lick Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Charlotte Perospero",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to generate and manipulate candy at will. This ability extends to creating various constructs and weapons made of candy, as well as controlling existing candy.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 64",
-      "enName": "Ability description 64",
+      "jpName": "Bisu Bisu no Mi",
+      "enName": "Bis-Bis Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Charlotte Cracker",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to generate and manipulate biscuits at will. This ability extends to creating various constructs and weapons made of biscuits, as well as controlling existing biscuits.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 65",
-      "enName": "Ability description 65",
+      "jpName": "Bata Bata no Mi",
+      "enName": "Butter-Butter Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Charlotte Galette",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to create and control butter.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 66",
-      "enName": "Ability description 66",
+      "jpName": "Book Book no Mi",
+      "enName": "Book-Book Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Charlotte Mont-d'Or",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to create and manipulate books at will. This ability extends to controlling the contents of the books and using them for various purposes, including trapping opponents and storing objects.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 67",
-      "enName": "Ability description 67",
+      "jpName": "Kuri Kuri no Mi",
+      "enName": "Cream-Cream Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Charlotte Opera",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to create and manipulate cream.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 68",
-      "enName": "Ability description 68",
+      "jpName": "Shibo Shibo no Mi",
+      "enName": "Wring-Wring Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Charlotte Smoothie",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows its user to drain liquid from both living and non-living things by wringing them, as well as absorb liquid into themselves and their weapons.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 69",
-      "enName": "Ability description 69",
+      "jpName": "Memo Memo no Mi",
+      "enName": "Memo-Memo Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Charlotte Pudding",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to manipulate memories, including altering, erasing, and implanting memories in others. This ability grants the user incredible influence and control over individuals and situations.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 70",
-      "enName": "Ability description 70",
+      "jpName": "Mochi Mochi no Mi",
+      "enName": "Mochi-Mochi Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Charlotte Katakuri",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to generate and manipulate mochi at will. This ability extends to creating various constructs and weapons made of mochi, as well as controlling existing mochi.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 71",
-      "enName": "Ability description 71",
+      "jpName": "Hoya Hoya no Mi",
+      "enName": "Puff-Puff Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Charlotte Daifuku",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to summon and control a genie from their body. This genie can fulfill the user's wishes and carry out tasks on their behalf, making the user extremely powerful in combat and other situations.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 72",
-      "enName": "Ability description 72",
+      "jpName": "Netsu Netsu no Mi",
+      "enName": "Heat-Heat Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Charlotte Oven",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to generate and manipulate heat at will. This ability extends to creating intense heat waves, controlling fire, and raising temperatures to extreme levels, making the user extremely dangerous in combat.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 73",
-      "enName": "Ability description 73",
+      "jpName": "Kuku Kuku no Mi",
+      "enName": "Cook-Cook Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Streusen",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to manipulate and transform objects into food at will. This ability extends to creating and manipulating various types of dishes, as well as controlling the taste and properties of the food they create.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 74",
-      "enName": "Ability description 74",
+      "jpName": "Gocha Gocha no Mi",
+      "enName": "Pile-Pile Fruit",
       "image": "image_url_here",
-      "type": "Paramecia",
+      "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
+        "name": "Charlotte Newshi",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
-      "isMythical": false,
+      "pastUser": [],
+      "ability": "Allows the user to merge themselves with other people.",
+      "isAwakened": false,
+      "isMythical": true,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 75",
-      "enName": "Ability description 75",
+      "jpName": "Oshi Oshi no Mii",
+      "enName": "Push-Push Fruit",
       "image": "image_url_here",
-      "type": "Paramecia",
+      "type": "Zoan",
       "currentUser": {
-        "name": "Current user",
+        "name": "Morley",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to freely move and shape the ground as though it was malleable like clay.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 76",
-      "enName": "Ability description 76",
+      "jpName": "Kobu Kobu no Mi",
+      "enName": "Pump-Pump Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Belo Betty",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to spread the spirit of rebellion to others, inspiring them to fight for freedom and justice. This ability grants the user the ability to rally and empower their allies in battle.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 77",
-      "enName": "Ability description 77",
+      "jpName": "Kibi Kibi no Mi",
+      "enName": "Millet-Millet Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Kurozumi Tama",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to tame and control animals by feeding them special dango made from their own body. This ability also grants the user the ability to communicate with and understand the thoughts of animals.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 78",
-      "enName": "Ability description 78",
+      "jpName": "Juku Juku no Mi",
+      "enName": "Ripe-Ripe Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Shinobu",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to mature and decay anything they touch.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 79",
-      "enName": "Ability description 79",
+      "jpName": "Suke Suke no Mi",
+      "enName": "Clear-Clear Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Shiryu",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": {
+        "name": "Absalom",
+        "image": ""
+      },
+      "ability": "Allows the user to turn invisible at will, making them undetectable to the naked eye and most forms of detection. This ability grants the user incredible stealth and espionage capabilities.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 80",
-      "enName": "Ability description 80",
+      "jpName": "Shiku Shiku no Mi",
+      "enName": "Sick-Sick Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Doc Q",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to afflict others with diseases.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 81",
-      "enName": "Ability description 81",
+      "jpName": "Wapu Wapu no Mi",
+      "enName": "Warp-Warp Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Van Augur",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to teleport themselves and others from place to place.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 82",
-      "enName": "Ability description 82",
+      "jpName": "Riki Riki no Mi",
+      "enName": "Strong-Strong Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Jesus Burgess",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to transform into a giant, granting them immense size and strength. This transformation also enhances the user's durability and resilience to damage.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 83",
-      "enName": "Ability description 83",
+      "jpName": "Shima Shima no Mi",
+      "enName": "Isle-Isle Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Avalo Pizarro",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
-      "isMythical": false,
+      "pastUser": [],
+      "ability": "Grants the ability to merge with an island's environment and manipulate it.",
+      "isAwakened": false,
+      "isMythical": true,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 84",
-      "enName": "Ability description 84",
+      "jpName": "Gabu Gabu no Mi",
+      "enName": "Glug-Glug Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Vasco Shot",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Makes the user a Liquor Human.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 85",
-      "enName": "Ability description 85",
+      "jpName": "Muchi Muchi no Mi",
+      "enName": "Whip-Whip Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Kajaku",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to use whips to command anything they hit.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 86",
-      "enName": "Ability description 86",
+      "jpName": "Nori Nori no Mi",
+      "enName": "Ride-Ride Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
       "currentUser": {
-        "name": "Current user",
+        "name": "Bluegrass",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "pastUser": [],
+      "ability": "Allows the user to control anything they ride.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 87",
-      "enName": "Ability description 87",
+      "jpName": "Nagi Nagi no Mi",
+      "enName": "Calm-Calm Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
-      "currentUser": {
-        "name": "Current user",
+      "currentUser": [],
+      "pastUser": {
+        "name": "Donquixote Rosinante",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "ability": "Allows the user to create a soundproof field and to cancel all noises.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 88",
-      "enName": "Ability description 88",
+      "jpName": "Toki Toki no Mi",
+      "enName": "Time-Time Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
-      "currentUser": {
-        "name": "Current user",
+      "currentUser": [],
+      "pastUser":{
+        "name": "Kozuki Toki",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "ability": "Allows the user to send themselves and others forward in time to a specific moment or era. This ability grants the user incredible control over time and the ability to manipulate events and outcomes.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 89",
-      "enName": "Ability description 89",
+      "jpName": "Fude Fude no Mi",
+      "enName": "Brush-Brush Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
-      "currentUser": {
-        "name": "Current user",
+      "currentUser": [],
+      "pastUser": {
+        "name": "Kurozumi Kanjuro",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "ability": "Allows the user to generate ink from their body and use a painting brush to turn images created with that ink into three-dimensional, lifelike objects.",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     },
     {
-      "jpName": "Paramecia Devil Fruit 90",
-      "enName": "Ability description 90",
+      "jpName": "Nomi Nomi no Mi",
+      "enName": "Brain-Brain Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
-      "currentUser": {
-        "name": "Current user",
+      "currentUser": [],
+      "pastUser": {
+        "name": "Vegapunk",
         "image": "current_user_image_url_here"
       },
-      "pastUser": [
-        {
-          "name": "Past user 1",
-          "image": "past_user_image_url_here"
-        }
-      ],
-      "ability": "Detailed ability description",
-      "isAwakened": true,
+      "ability": "Allows the user's brain to expand indefinitely with new knowledge",
+      "isAwakened": false,
       "isMythical": false,
       "isAncient": false
     }
