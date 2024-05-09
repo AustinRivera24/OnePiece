@@ -1,0 +1,3088 @@
+{
+  "zoan": [
+    {
+      "jpName": "Hito Hito no Mi, Model: Nika",
+      "enName": "Human-Human Fruit, Model: Nika",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Monkey D. Luffy",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "JoyBoy",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Transform into the Legendary 'Sun God' Nika (and gaining his rubbery attributes.)",
+      "isAwakened": true,
+      "isMythical": true,
+      "isAncient": false
+    },
+    {
+      "jpName": "Tori Tori no Mi, Model: Phoenix",
+      "enName": "Bird-Bird Fruit, Model: Phoenix",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Marco",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "",
+          "image": ""
+        }
+      ],
+      "ability": "Transforms into a large phoenix shrouded in blue flames, as well as a human-phoenix hybrid.",
+      "isAwakened": false,
+      "isMythical": true,
+      "isAncient": false
+    },
+    {
+      "jpName": "Hito Hito no Mi, Model: Daibutsu",
+      "enName": "Human-Human Fruit, Model: Buddha",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Sengoku",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "",
+          "image": ""
+        }
+      ],
+      "ability": "Transform into a giant, living, golden Buddha.",
+      "isAwakened": false,
+      "isMythical": true,
+      "isAncient": false
+    },
+    {
+      "jpName": "Uo Uo no Mi, Model: Seiryu",
+      "enName": "Fish-Fish Fruit, Model: Azure Dragon",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Kaido",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "",
+          "image": ""
+        }
+      ],
+      "ability": "Transform into a hybrid and full Azure Dragon",
+      "isAwakened": false,
+      "isMythical": true,
+      "isAncient": false
+    },
+    {
+      "jpName": "Inu Inu no Mi, Model: Kyubi no Kitsune",
+      "enName": "Dog-Dog Fruit, Model: Nine Tailed Fox",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Catarina Devon",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "",
+          "image": ""
+        }
+      ],
+      "ability": "Transform into a nine-tailed fox. With this power, she can transform into clones of people.",
+      "isAwakened": false,
+      "isMythical": true,
+      "isAncient": false
+    },
+    {
+      "jpName": "Hebi Hebi no Mi, Model: Yamata no Orochi",
+      "enName": "Snake-Snake Fruit, Model: Eight Headed Serpent",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "",
+        "image": ""
+      },
+      "pastUser": [
+        {
+          "name": "Kurozumi Orochi",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Transform into a hybrid and full version of the Yamata no Orochi, an eight-headed snake or dragon in Japanese mythology.",
+      "isAwakened": false,
+      "isMythical": true,
+      "isAncient": false
+    },
+    {
+      "jpName": "ito Hito no Mi, Model: Onyudo",
+      "enName": "Human-Human Fruit Model: Onyudo",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Onimaru",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "",
+          "image": ""
+        }
+      ],
+      "ability": "Transform into an onyudo: a mythical, human-like yokai that takes the form of a giant monk.",
+      "isAwakened": false,
+      "isMythical": true,
+      "isAncient": false
+    },
+    {
+      "jpName": "Inu Inu no Mi, Model: Okuchi no Makami",
+      "enName": "Dog-Dog Fruit, Model: Okuchi-no-Makami",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Yamato",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "",
+          "image": ""
+        }
+      ],
+      "ability": " Transform into a hybrid and full version of an ancient wolf deity.",
+      "isAwakened": false,
+      "isMythical": true,
+      "isAncient": false
+    },
+    {
+      "jpName": "Uma Uma no Mi, Model: Pegasus",
+      "enName": "Horse-Horse Fruit, Model: Pegasus",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Stronger",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "",
+          "image": ""
+        }
+      ],
+      "ability": "Transform into a Pegasus hybrid and a full Pegasus.",
+      "isAwakened": false,
+      "isMythical": true,
+      "isAncient": false
+    },
+    {
+      "jpName": "Ryu Ryu no Mi, Model: Allosaurus",
+      "enName": "ADragon-Dragon Fruit, Model: Allosaurus",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "X Drake",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "",
+          "image": ""
+        }
+      ],
+      "ability": "Transform into an allosaurus hybrid and a full allosaurus.",
+      "isAwakened": false,
+      "isMythical": false,
+      "isAncient": true
+    },
+    {
+      "jpName": "Zoan Devil Fruit 11",
+      "enName": "Ability description 11",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 12",
+      "enName": "Ability description 12",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 13",
+      "enName": "Ability description 13",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 14",
+      "enName": "Ability description 14",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 15",
+      "enName": "Ability description 15",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 16",
+      "enName": "Ability description 16",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 17",
+      "enName": "Ability description 17",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 18",
+      "enName": "Ability description 18",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 19",
+      "enName": "Ability description 19",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 20",
+      "enName": "Ability description 20",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 21",
+      "enName": "Ability description 21",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 22",
+      "enName": "Ability description 22",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 23",
+      "enName": "Ability description 23",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 24",
+      "enName": "Ability description 24",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 25",
+      "enName": "Ability description 25",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 26",
+      "enName": "Ability description 26",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 27",
+      "enName": "Ability description 27",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 28",
+      "enName": "Ability description 28",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 29",
+      "enName": "Ability description 29",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 30",
+      "enName": "Ability description 30",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 31",
+      "enName": "Ability description 31",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 32",
+      "enName": "Ability description 32",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 33",
+      "enName": "Ability description 33",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 34",
+      "enName": "Ability description 34",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 35",
+      "enName": "Ability description 35",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 36",
+      "enName": "Ability description 36",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 37",
+      "enName": "Ability description 37",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 38",
+      "enName": "Ability description 38",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 39",
+      "enName": "Ability description 39",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 40",
+      "enName": "Ability description 40",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 41",
+      "enName": "Ability description 41",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 42",
+      "enName": "Ability description 42",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 43",
+      "enName": "Ability description 43",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 44",
+      "enName": "Ability description 44",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 45",
+      "enName": "Ability description 45",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 46",
+      "enName": "Ability description 46",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 47",
+      "enName": "Ability description 47",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 48",
+      "enName": "Ability description 48",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 49",
+      "enName": "Ability description 49",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 50",
+      "enName": "Ability description 50",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Zoan Devil Fruit 51",
+      "enName": "Ability description 51",
+      "image": "image_url_here",
+      "type": "Zoan",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    }
+  ],
+  "logia": [
+    {
+      "jpName": "Logia Devil Fruit 1",
+      "enName": "Ability description 1",
+      "image": "image_url_here",
+      "type": "Logia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Logia Devil Fruit 2",
+      "enName": "Ability description 2",
+      "image": "image_url_here",
+      "type": "Logia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Logia Devil Fruit 3",
+      "enName": "Ability description 3",
+      "image": "image_url_here",
+      "type": "Logia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Logia Devil Fruit 4",
+      "enName": "Ability description 4",
+      "image": "image_url_here",
+      "type": "Logia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Logia Devil Fruit 5",
+      "enName": "Ability description 5",
+      "image": "image_url_here",
+      "type": "Logia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Logia Devil Fruit 6",
+      "enName": "Ability description 6",
+      "image": "image_url_here",
+      "type": "Logia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Logia Devil Fruit 7",
+      "enName": "Ability description 7",
+      "image": "image_url_here",
+      "type": "Logia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Logia Devil Fruit 8",
+      "enName": "Ability description 8",
+      "image": "image_url_here",
+      "type": "Logia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Logia Devil Fruit 9",
+      "enName": "Ability description 9",
+      "image": "image_url_here",
+      "type": "Logia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Logia Devil Fruit 10",
+      "enName": "Ability description 10",
+      "image": "image_url_here",
+      "type": "Logia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Logia Devil Fruit 11",
+      "enName": "Ability description 11",
+      "image": "image_url_here",
+      "type": "Logia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Logia Devil Fruit 12",
+      "enName": "Ability description 12",
+      "image": "image_url_here",
+      "type": "Logia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Logia Devil Fruit 13",
+      "enName": "Ability description 13",
+      "image": "image_url_here",
+      "type": "Logia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    }
+  ],
+  "paramecia": [
+    {
+      "jpName": "Paramecia Devil Fruit 1",
+      "enName": "Ability description 1",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 2",
+      "enName": "Ability description 2",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 3",
+      "enName": "Ability description 3",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 4",
+      "enName": "Ability description 4",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 5",
+      "enName": "Ability description 5",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 6",
+      "enName": "Ability description 6",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 7",
+      "enName": "Ability description 7",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 8",
+      "enName": "Ability description 8",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 9",
+      "enName": "Ability description 9",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 10",
+      "enName": "Ability description 10",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 11",
+      "enName": "Ability description 11",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 12",
+      "enName": "Ability description 12",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 13",
+      "enName": "Ability description 13",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 14",
+      "enName": "Ability description 14",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 15",
+      "enName": "Ability description 15",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 16",
+      "enName": "Ability description 16",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 17",
+      "enName": "Ability description 17",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 18",
+      "enName": "Ability description 18",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 19",
+      "enName": "Ability description 19",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 20",
+      "enName": "Ability description 20",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 21",
+      "enName": "Ability description 21",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 22",
+      "enName": "Ability description 22",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 23",
+      "enName": "Ability description 23",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 24",
+      "enName": "Ability description 24",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 25",
+      "enName": "Ability description 25",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 26",
+      "enName": "Ability description 26",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 27",
+      "enName": "Ability description 27",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 28",
+      "enName": "Ability description 28",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 29",
+      "enName": "Ability description 29",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 30",
+      "enName": "Ability description 30",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 31",
+      "enName": "Ability description 31",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 32",
+      "enName": "Ability description 32",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 33",
+      "enName": "Ability description 33",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 34",
+      "enName": "Ability description 34",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 35",
+      "enName": "Ability description 35",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 36",
+      "enName": "Ability description 36",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 37",
+      "enName": "Ability description 37",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 38",
+      "enName": "Ability description 38",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 39",
+      "enName": "Ability description 39",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 40",
+      "enName": "Ability description 40",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 41",
+      "enName": "Ability description 41",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 42",
+      "enName": "Ability description 42",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 43",
+      "enName": "Ability description 43",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 44",
+      "enName": "Ability description 44",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 45",
+      "enName": "Ability description 45",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 46",
+      "enName": "Ability description 46",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 47",
+      "enName": "Ability description 47",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 48",
+      "enName": "Ability description 48",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 49",
+      "enName": "Ability description 49",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 50",
+      "enName": "Ability description 50",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 51",
+      "enName": "Ability description 51",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 52",
+      "enName": "Ability description 52",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 53",
+      "enName": "Ability description 53",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 54",
+      "enName": "Ability description 54",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 55",
+      "enName": "Ability description 55",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 56",
+      "enName": "Ability description 56",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 57",
+      "enName": "Ability description 57",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 58",
+      "enName": "Ability description 58",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 59",
+      "enName": "Ability description 59",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 60",
+      "enName": "Ability description 60",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 61",
+      "enName": "Ability description 61",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 62",
+      "enName": "Ability description 62",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 63",
+      "enName": "Ability description 63",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 64",
+      "enName": "Ability description 64",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 65",
+      "enName": "Ability description 65",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 66",
+      "enName": "Ability description 66",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 67",
+      "enName": "Ability description 67",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 68",
+      "enName": "Ability description 68",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 69",
+      "enName": "Ability description 69",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 70",
+      "enName": "Ability description 70",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 71",
+      "enName": "Ability description 71",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 72",
+      "enName": "Ability description 72",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 73",
+      "enName": "Ability description 73",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 74",
+      "enName": "Ability description 74",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 75",
+      "enName": "Ability description 75",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 76",
+      "enName": "Ability description 76",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 77",
+      "enName": "Ability description 77",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 78",
+      "enName": "Ability description 78",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 79",
+      "enName": "Ability description 79",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 80",
+      "enName": "Ability description 80",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 81",
+      "enName": "Ability description 81",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 82",
+      "enName": "Ability description 82",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 83",
+      "enName": "Ability description 83",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 84",
+      "enName": "Ability description 84",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 85",
+      "enName": "Ability description 85",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 86",
+      "enName": "Ability description 86",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 87",
+      "enName": "Ability description 87",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 88",
+      "enName": "Ability description 88",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 89",
+      "enName": "Ability description 89",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    },
+    {
+      "jpName": "Paramecia Devil Fruit 90",
+      "enName": "Ability description 90",
+      "image": "image_url_here",
+      "type": "Paramecia",
+      "currentUser": {
+        "name": "Current user",
+        "image": "current_user_image_url_here"
+      },
+      "pastUser": [
+        {
+          "name": "Past user 1",
+          "image": "past_user_image_url_here"
+        }
+      ],
+      "ability": "Detailed ability description",
+      "isAwakened": true,
+      "isMythical": false,
+      "isAncient": false
+    }
+  ]
+}
