@@ -2236,7 +2236,7 @@
       "enName": "Brain-Brain Fruit",
       "image": "image_url_here",
       "type": "Paramecia",
-      "currentUser": [],
+      "currentUser": {},
       "pastUser": {
         "name": "Vegapunk",
         "image": "current_user_image_url_here"
