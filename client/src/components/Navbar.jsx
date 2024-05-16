@@ -12,7 +12,7 @@ function Navbar() {
                         <NavLink to="/">Home</NavLink>
                     </li>
                     <li>
-                        <NavLink to="page1">Page1</NavLink>
+                        <NavLink to="devilfruit">Devil Fruits</NavLink>
                     </li>
                     <li>
                         <NavLink to="page2">Page2</NavLink>

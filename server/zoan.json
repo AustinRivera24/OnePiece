@@ -1,0 +1,706 @@
+{
+    "zoan": [
+        {
+            "jpName": "Hito Hito no Mi, Model: Nika",
+            "enName": "Human-Human Fruit, Model: Nika",
+            "image": "image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Monkey D. Luffy",
+                "image": "current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "JoyBoy",
+                "image": "past_user_image_url_here"
+            },
+            "ability": "Transform into the Legendary 'Sun God' Nika (and gaining his rubbery attributes.)",
+            "isAwakened": true,
+            "isMythical": true,
+            "isAncient": false
+        },
+        {
+            "jpName": "Tori Tori no Mi, Model: Phoenix",
+            "enName": "Bird-Bird Fruit, Model: Phoenix",
+            "image": "image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Marco",
+                "image": "current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Transforms into a large phoenix shrouded in blue flames, as well as a human-phoenix hybrid.",
+            "isAwakened": false,
+            "isMythical": true,
+            "isAncient": false
+        },
+        {
+            "jpName": "Hito Hito no Mi, Model: Daibutsu",
+            "enName": "Human-Human Fruit, Model: Buddha",
+            "image": "image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Sengoku",
+                "image": "current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Transform into a giant, living, golden Buddha.",
+            "isAwakened": false,
+            "isMythical": true,
+            "isAncient": false
+        },
+        {
+            "jpName": "Uo Uo no Mi, Model: Seiryu",
+            "enName": "Fish-Fish Fruit, Model: Azure Dragon",
+            "image": "image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Kaido",
+                "image": "current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Transform into a hybrid and full Azure Dragon",
+            "isAwakened": false,
+            "isMythical": true,
+            "isAncient": false
+        },
+        {
+            "jpName": "Inu Inu no Mi, Model: Kyubi no Kitsune",
+            "enName": "Dog-Dog Fruit, Model: Nine Tailed Fox",
+            "image": "image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Catarina Devon",
+                "image": "current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Transform into a nine-tailed fox. With this power, she can transform into clones of people.",
+            "isAwakened": false,
+            "isMythical": true,
+            "isAncient": false
+        },
+        {
+            "jpName": "Hebi Hebi no Mi, Model: Yamata no Orochi",
+            "enName": "Snake-Snake Fruit, Model: Eight Headed Serpent",
+            "image": "image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "",
+                "image": ""
+            },
+            "pastUser": {
+                "name": "Kurozumi Orochi",
+                "image": "past_user_image_url_here"
+            },
+            "ability": "Transform into a hybrid and full version of the Yamata no Orochi, an eight-headed snake or dragon in Japanese mythology.",
+            "isAwakened": false,
+            "isMythical": true,
+            "isAncient": false
+        },
+        {
+            "jpName": "ito Hito no Mi, Model: Onyudo",
+            "enName": "Human-Human Fruit Model: Onyudo",
+            "image": "image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Onimaru",
+                "image": "current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Transform into an onyudo: a mythical, human-like yokai that takes the form of a giant monk.",
+            "isAwakened": false,
+            "isMythical": true,
+            "isAncient": false
+        },
+        {
+            "jpName": "Inu Inu no Mi, Model: Okuchi no Makami",
+            "enName": "Dog-Dog Fruit, Model: Okuchi-no-Makami",
+            "image": "image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Yamato",
+                "image": "current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": " Transform into a hybrid and full version of an ancient wolf deity.",
+            "isAwakened": false,
+            "isMythical": true,
+            "isAncient": false
+        },
+        {
+            "jpName": "Uma Uma no Mi, Model: Pegasus",
+            "enName": "Horse-Horse Fruit, Model: Pegasus",
+            "image": "image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Stronger",
+                "image": "current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Transform into a Pegasus hybrid and a full Pegasus.",
+            "isAwakened": false,
+            "isMythical": true,
+            "isAncient": false
+        },
+        {
+            "jpName": "Ryu Ryu no Mi, Model: Allosaurus",
+            "enName": "ADragon-Dragon Fruit, Model: Allosaurus",
+            "image": "image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "X Drake",
+                "image": "current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Transform into an allosaurus hybrid and a full allosaurus.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": true
+        },
+        {
+            "jpName": "Hito Hito no Mi, Model: Human",
+            "enName": "Human-Human Fruit, Model: Human",
+            "image": "chopper_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Tony Tony Chopper",
+                "image": "chopper_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Allows the user to transform into different human-animal hybrid forms and a full human.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": false
+        },
+        {
+            "jpName": "Ushi Ushi no Mi, Model: Bison",
+            "enName": "Ox-Ox Fruit, Model: Bison",
+            "image": "dalton_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Dalton",
+                "image": "dalton_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Allows the user to transform into a bison-human hybrid and a full bison.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": false
+        },
+        {
+            "jpName": "Tori Tori no Mi, Model: Falcon",
+            "enName": "Bird-Bird Fruit, Model: Falcon",
+            "image": "pell_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Pell",
+                "image": "pell_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Allows the user to transform into a falcon-human hybrid and a full falcon.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": false
+        },
+        {
+            "jpName": "Neko Neko no Mi, Model: Leopard",
+            "enName": "Cat-Cat Fruit, Model: Leopard",
+            "image": "rob_lucci_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Rob Lucci",
+                "image": "rob_lucci_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Allows the user to transform into a leopard-human hybrid and a full leopard.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": false
+        },
+        {
+            "jpName": "Ushi Ushi no Mi, Model: Giraffe",
+            "enName": "Ox-Ox Fruit, Model: Giraffe",
+            "image": "kaku_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Kaku",
+                "image": "kaku_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Allows the user to transform into a giraffe-human hybrid and a full giraffe.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": false
+        },
+        {
+            "jpName": "Tori Tori no Mi, Model: Falcon",
+            "enName": "Bird-Bird Fruit, Model: Falcon",
+            "image": "lassoo_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Lassoo",
+                "image": "lassoo_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Allows the user to transform into a falcon-human hybrid and a full falcon.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": false
+        },
+        {
+            "jpName": "Tori Tori no Mi, Model: Elephant",
+            "enName": "Bird-Bird Fruit, Model: Elephant",
+            "image": "drophy_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Drophy",
+                "image": "drophy_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Allows the user to transform into an elephant-human hybrid and a full elephant.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": false
+        },
+        {
+            "jpName": "Inu Inu no Mi, Model: Jackal",
+            "enName": "Dog-Dog Fruit, Model: Jackal",
+            "image": "chaka_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Chaka",
+                "image": "chaka_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Allows the user to transform into a jackal-human hybrid and a full jackal.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": false
+        },
+        {
+            "jpName": "Uma Uma no Mi",
+            "enName": "Horse-Horse Fruit",
+            "image": "pierre_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Pierre",
+                "image": "pierre_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Transform into a horse or horse hybrid.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": false
+        },
+        {
+            "jpName": "Zo Zo no Mi, Model: Elephant",
+            "enName": "Zo Zo Fruit, Model: Elephant",
+            "image": "funkfreed_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Funkfreed",
+                "image": "funkfreed_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Allows the user to transform into an elephant and manipulate the elephant's sword form.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": false
+        },
+        {
+            "jpName": "Inu Inu no Mi, Model: Wolf",
+            "enName": "Dog-Dog Fruit, Model: Wolf",
+            "image": "jabra_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Jabra",
+                "image": "jabra_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Allows the user to transform into a wolf-human hybrid and a full wolf.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": false
+        },
+        {
+            "jpName": "Hebi Hebi no Mi, Model: King Cobra",
+            "enName": "Snake-Snake Fruit, Model: King Cobra",
+            "image": "boa_marigold_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Boa Marigold",
+                "image": "boa_marigold_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Allows the user to transform into a king cobra-human hybrid and a full king cobra.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": false
+        },
+        {
+            "jpName": "Hebi Hebi no Mi, Model: Anaconda",
+            "enName": "Snake-Snake Fruit, Model: Anaconda",
+            "image": "boa_sandersonia_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Boa Sandersonia",
+                "image": "boa_sandersonia_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Allows the user to transform into an anaconda-human hybrid and a full anaconda.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": false
+        },
+        {
+            "jpName": "Kame Kame no Mi",
+            "enName": "Turtle-Turtle Fruit",
+            "image": "pekom_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Pekoms",
+                "image": "pekom_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Allows the user to transform into a turtle-human hybrid and a full turtle.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": false
+        },
+        {
+            "jpName": "Tama Tama no Mi",
+            "enName": "Egg-Egg Fruit",
+            "image": "tamago_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Tamago",
+                "image": "tamago_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Turns the user's body composition into that of an egg.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": false
+        },
+        {
+            "jpName": "Sara Sara no Mi, Model: Axolotl",
+            "enName": "Sala-Sala Fruit, Model: Axolotl",
+            "image": "smiley_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "",
+                "image": ""
+            },
+            "pastUser": {
+                "name": "Smiley",
+                "image": "smiley_current_user_image_url_here"
+            },
+            "ability": "Transforms into an axolotl hybrid and a full axolotl at will.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": false
+        },
+        {
+            "jpName": "Mushi Mushi no Mi, Model: Kabutomushi",
+            "enName": "Bug-Bug Fruit, Model: Rhinoceros Beetle",
+            "image": "kabu_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Kabu",
+                "image": "kabu_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Transform into a rhinoceros beetle hybrid and full rhinoceros beetle.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": false
+        },
+        {
+            "jpName": "Mushi Mushi no Mi, Model: Suzumebachi",
+            "enName": "Bug-Bug Fruit, Model: Hornet",
+            "image": "bian_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Bian",
+                "image": "bian_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Transform into a hornet hybrid and full hornet.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": false
+        },
+        {
+            "jpName": "Tori Tori no Mi, Model: Albatross",
+            "enName": "Bird-Bird Fruit Model Albatross",
+            "image": "morgans_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Morgans",
+                "image": "morgans_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": " Transform into an albatross hybrid and a full albatross.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": false
+        },
+        {
+            "jpName": "Inu Inu no Mi, Model: Tanuki",
+            "enName": "Dog-Dog Fruit, Model Tanuki",
+            "image": "bunbuku_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Bunbuku",
+                "image": "bunbuku_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Allows the user to transform into a tanuki-human hybrid and a full tanuki.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": false
+        },
+        {
+            "jpName": "Zou Zou no Mi, Model: Mammoth",
+            "enName": "Elephant-Elephant Fruit, Model: Mammoth",
+            "image": "jack_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Jack",
+                "image": "jack_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Allows the user to transform into a mammoth-human hybrid and a full mammoth.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": true
+        },
+        {
+            "jpName": "Ryu Ryu no Mi, Model: Brachiosaurus",
+            "enName": "Dragon-Dragon Fruit, Model: Brachiosaurus",
+            "image": "queen_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Queen",
+                "image": "queen_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Allows the user to transform into a brachiosaurus-human hybrid and a full brachiosaurus.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": true
+        },
+        {
+            "jpName": "Ryu Ryu no Mi, Model: Pteranodon",
+            "enName": "Dragon-Dragon Fruit, Model: Pteranodon",
+            "image": "king_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "King",
+                "image": "king_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Allows the user to transform into a pteranodon-human hybrid and a full pteranodon.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": true
+        },
+        {
+            "jpName": "Ryu Ryu no Mi, Model: Spinosaurus",
+            "enName": "Dragon-Dragon Fruit, Model: Spinosaurus",
+            "image": "page_one_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Page One",
+                "image": "page_one_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Allows the user to transform into a spinosaurus-human hybrid and a full spinosaurus.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": true
+        },
+        {
+            "jpName": "Ryu Ryu no Mi, Model: Pachycephalosaurus",
+            "enName": "Dragon-Dragon Fruit, Model: Pachycephalosaurus",
+            "image": "ulti_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Ulti",
+                "image": "ulti_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Allows the user to transform into a pachycephalosaurus-human hybrid and a full pachycephalosaurus.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": true
+        },
+        {
+            "jpName": "Ryu Ryu no Mi, Model: Triceratops",
+            "enName": "Dragon-Dragon Fruit, Model: Triceratops",
+            "image": "sasaki_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Sasaki",
+                "image": "sasaki_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Allows the user to transform into a triceratops-human hybrid and a full triceratops.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": true
+        },
+        {
+            "jpName": "Kumo Kumo no Mi, Model: Rosamygale Grauvogeli",
+            "enName": "Spider-Spider Fruit, Model: Rosamygale Grauvogeli",
+            "image": "black_maria_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Black Maria",
+                "image": "black_maria_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Allows the user to transform into a Rosamygale Grauvogeli-human hybrid and a full Rosamygale Grauvogeli.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": true
+        },
+        {
+            "jpName": "Neko Neko no Mi, Model: Saber Tiger",
+            "enName": "Cat-Cat Fruit, Model: Saber Tiger",
+            "image": "whos_who_image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Who's-Who",
+                "image": "whos_who_current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Allows the user to transform into a saber tiger-human hybrid and a full saber tiger.",
+            "isAwakened": false,
+            "isMythical": false,
+            "isAncient": true
+        },
+        {
+            "jpName": "Uo Uo no Mi, Model: Seiryu (Artificial)",
+            "enName": "Fish-Fish Fruit, Model: Azure Dragon (Artificial)",
+            "image": "image_url_here",
+            "type": "Zoan",
+            "currentUser": {
+                "name": "Kozuki Momonosuke",
+                "image": "current_user_image_url_here"
+            },
+            "pastUser": {
+                "name": "",
+                "image": ""
+            },
+            "ability": "Transform into a hybrid and full Azure Dragon",
+            "isAwakened": false,
+            "isMythical": true,
+            "isAncient": false
+        }
+    ]
+}

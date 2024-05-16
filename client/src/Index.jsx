@@ -5,7 +5,7 @@ import {createBrowserRouter, RouterProvider} from "react-router-dom"
 
 //Page Component Imports
 import Home from './pages/Home.jsx'
-import Page1 from './pages/Page1.jsx'
+import DevilFruit from './pages/DevilFruit.jsx'
 import Page2 from './pages/Page2.jsx'
 import Page3 from './pages/Page3.jsx'
 
@@ -21,8 +21,8 @@ const router = createBrowserRouter([
     element: <Home/>,
     children: [
       {
-        path:"page1",
-        element: <Page1/>
+        path:"devilfruit",
+        element: <DevilFruit/>
       },
       {
         path:"page2",
